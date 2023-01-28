@@ -11,7 +11,7 @@ send_times = ["09:00", "17:00", "20:22"]
 is_test_mode = True
 step_update = 20
 
-sg.theme('Dark Amber')
+sg.theme('Dark Blue')
 
 # Define Components
 clock = sg.Text('', key='clock')
